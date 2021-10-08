@@ -19,7 +19,7 @@ description: **В этом отделе Вас будут ожидать**
 
 Быть адекватным и знать орфографию```
 
-Оставить заявку можно в <#815305928877408287>
+Оставить заявку можно в кликнув по самой верхней строке сообщения.
 url: 
 color: 00FF00
 timestamp: false
@@ -27,6 +27,6 @@ footer_image:
 footer: 
 thumbnail: 
 image: https://cdn.discordapp.com/attachments/884058388034633778/884176906470162462/FIBOG.png
-author: 
-author_url: 
+author: Заявку можно оставить здесь*клик*
+author_url: https://discord.com/channels/609422663898628110/815305928877408287/893003545450795018
 author_icon:
